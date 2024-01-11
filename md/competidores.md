@@ -1,1 +1,1 @@
-
+En este apartado, puedes comparar Ansible con otras herramientas de automatización de infraestructuras de TI, como Chef, Puppet y SaltStack. Puedes mencionar las ventajas y desventajas de cada herramienta y por qué Ansible es una buena opción para la automatización de infraestructuras de TI.
