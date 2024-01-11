@@ -1,5 +1,5 @@
 # Ansible
-
+![ansible](img/ansible.png)
 ## Índice
 
 ### ***[1.- Introducción](md/introduccion.md)***
