@@ -9,4 +9,4 @@ Terraform: Terraform es una herramienta de automatización de TI que se utiliza 
 
 Jenkins: Jenkins es una herramienta de automatización de TI que se utiliza para automatizar tareas de construcción, prueba e implementación. Jenkins utiliza un lenguaje de configuración propio y se centra en la gestión de la construcción y el despliegue de aplicaciones.
 
-![foto1](/img/descarga(1).jpeg)
+![foto1](/img/descarga2.png)
