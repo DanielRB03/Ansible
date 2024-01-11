@@ -13,3 +13,4 @@
 ### ***[5.- Arquitectura y componentes.](md/arquitectura.md)***
 
 ### .- Referencias
+[wikipedia](https://es.wikipedia.org/wiki/Ansible_(software))
