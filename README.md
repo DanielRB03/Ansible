@@ -1,4 +1,7 @@
 # Ansible
+
+(Moises hizo cambios y se llevo todas las imagenes por delante)
+
 ![ansible](imgmoises/ansible.png)
 ## Índice
 
